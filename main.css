@@ -1,0 +1,40 @@
+body{
+    background-color: yellow;
+    width:100%;
+}
+
+.text1{
+    width: 100%; 
+    min-height: 100%; 
+    background: red; 
+}
+.video{
+
+    background-color: black;
+    padding-left: 10%;
+    padding-right:10%;
+    
+}
+
+.menu{
+    
+    
+}
+.list-group{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.ikonek{
+    float: left;
+}
+
+.tekstprzyikonku{
+    margin-top: 10%;
+    display: block;
+    
+}
+
+.xdo{
+    width: 100%;
+}
